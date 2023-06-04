@@ -1,0 +1,6 @@
+if x=="sana"
+then
+also
+no
+again
+no
