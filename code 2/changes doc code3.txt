@@ -1,5 +1,17 @@
 if x=="sana"
 then
+<<<<<<< HEAD
 no
 
 WHYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY
+=======
+also
+no
+again
+no
+>>>>>>> 15647fbc331fec9e934bb6178cf89231ae14b36e
+____________________________________________________________________________________________________
+inshallaaaahhh
+ameeen
+alhamdulillah
+____________________________________________________________________________________________________
